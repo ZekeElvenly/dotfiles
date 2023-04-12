@@ -1,0 +1,6 @@
+Command=/usr/local/bin/xfce-hkmon CPU RAM TEMP
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=2000
+Font=Roboto 9
+
