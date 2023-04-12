@@ -1,6 +1,6 @@
 app=gimp-2.10
 last_user=
-screenshot_dir=file:/home/dicky/Pictures/Screenshot
+screenshot_dir=file:/home/dicky/dotfiles/pictures
 action=1
 delay=0
 region=3
