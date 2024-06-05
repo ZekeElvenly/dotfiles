@@ -22,7 +22,7 @@ WM Theme : [Self-made no border gaps theme](themes/vacui-gaps/xfwm4)
 
 Theme : Adwaita-dark
 
-Wallpaper : Arima Kana from Oshi no Ko Eps.3 `(Actually i forgot which eps is)`
+Wallpaper : Arima Kana from Oshi no Ko Eps.3 (Actually i forgot which eps is)
 
 Icon : [Papyrus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
